@@ -1,0 +1,14 @@
+{
+  "reportTitle": "LeakGuard AI \u2014 Leak Detection Report",
+  "verdict": "LEAK CONFIRMED",
+  "severity": "CRITICAL",
+  "similarityScore": "100.0%",
+  "leakerWallet": "aishh123",
+  "actionRequired": "Immediate legal action recommended",
+  "evidence": {
+    "aiSimilarity": "100.0%",
+    "watermarkExtracted": "aishh123",
+    "videoAnalyzed": "susp_susp_watermarked_reva.mp4"
+  },
+  "recommendation": "Immediate legal action recommended"
+}
